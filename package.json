@@ -1,0 +1,25 @@
+{
+  "name": "voterimpact",
+  "version": "1.0.0",
+  "description": "Computes the probability that a voter in a given state impacts the US 2016 Presidential election outcome.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "vote",
+    "stats"
+  ],
+  "author": "SGaw",
+  "license": "ISC"
+}
