@@ -1,6 +1,6 @@
 {
   "name": "voterimpact",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Computes the probability that a voter in a given state impacts the US 2016 Presidential election outcome.",
   "main": "index.js",
   "directories": {
